@@ -160,6 +160,11 @@ INSERT INTO cidade(nome,idestado) VALUES
 ('Marilena', 1),
 ('Campinas', 2),
 ('Petrópolis', 3);
+('Terra rica', 1);
+('Osasco', 2);
+('Morumbi', 2);
+('Lagoa', 3);
+
 
 
 INSERT INTO pessoa(nome,telefone, endereco, email, idcidade) VALUES
